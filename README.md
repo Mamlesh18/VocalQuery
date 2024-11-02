@@ -7,6 +7,8 @@ This application provides an API for transcribing audio and converting spoken co
 
 
 ![Architecture of Vocal Query](Images/Frontend.png)
+![Architecture of Vocal Query](Images/Tables.png)
+
 
 
 
