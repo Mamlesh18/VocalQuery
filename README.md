@@ -4,9 +4,11 @@ This application provides an API for transcribing audio and converting spoken co
 
 
 
-
+### Frontend
 
 ![Architecture of Vocal Query](Images/Frontend.png)
+
+### Postgresql Table Creation/Automation
 ![Architecture of Vocal Query](Images/Tables.png)
 
 
